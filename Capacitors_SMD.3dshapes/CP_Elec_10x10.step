@@ -4,7 +4,7 @@ FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/shack/DAS-GIT/Freecad-component-generator/cadquery/FCAD_script_
 generator/generated_cap/cap_El_smd/CP_Elec_10x10.step',
-  '2017-02-10T10:08:49',('Author'),(''),
+  '2017-02-12T23:45:50',('Author'),(''),
   'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
